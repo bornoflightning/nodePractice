@@ -5,8 +5,8 @@
 <a name = 'notice' /></a>
 ## Notice!
 
-    this application is covered under the license NONE
-    ![badge](https://img.shields.io/static/v1?label=LICENSE&message=NONE&color=<green>)
+    this application is covered under the license IBM
+![badge](https://img.shields.io/static/v1?label=LICENSE&message=IBM&color=<green>)
     
     
 
@@ -25,7 +25,7 @@
 <a name = 'description' /></a>
 ### Descritpion
 
-    creates a professional readme file 
+    creates a readme file
 
 
 <a name = 'installation' /></a>
@@ -37,7 +37,7 @@
 <a name = 'usage' /></a>
 ### Usage
 
-    answers a few basic questions about your project to create a professional README file
+    answer questions to create file
 
 
 <a name = 'contributing' /></a>
@@ -55,6 +55,6 @@
 <a name = 'questions' /></a>
 ### Additional questions:
 
-    if you have any additional questions you are welcome to message me at victor@gmail.com or you can find me on github at victor@github.com
+    if you have any additional questions you are welcome to message me at victor@gmail.com or you can find me on github at victor@gitub.com
 
     
