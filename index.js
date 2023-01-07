@@ -74,33 +74,40 @@ const generateReadMe = ({projectName, description, contents, installationInstruc
         [Additional Questions](#questions)
 
 
-    <a name = 'description' />
+    
+<a name = 'description' />
     ###Descritpion
+
     ${description}
 
 
-    <a name = 'installation' />
+<a name = 'installation' />
     ###Installation
+
     ${installationInstructions}
 
 
-    <a name = 'usage' />
+<a name = 'usage' />
     ### Usage
+
     ${usage}
 
 
-    <a name = 'contributing' />
+<a name = 'contributing' />
     ### Contributing
+
     ${contributors}
 
 
-    <a name = 'tests' />
+<a name = 'tests' />
     ###Tests
+
     ${tests}
 
 
-    <a name = 'questions' />
+<a name = 'questions' />
     ###Additional questions:
+    
     message me at:
     ${github}
     ${email}

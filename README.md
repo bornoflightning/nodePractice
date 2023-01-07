@@ -1,8 +1,8 @@
 
-    #title: node readMe maker:
+    #title: node README generator:
     
     ##Notice!
-    this application is covered under the license IBM
+    this application is covered under the license 
 
     
     ##Table of Contents
@@ -14,35 +14,42 @@
         [Additional Questions](#questions)
 
 
-    <a name = 'description' />
+    
+<a name = 'description' />
     ###Descritpion
-    creates a professional README file
+
+    generates a professionall ReadMe file
 
 
-    <a name = 'installation' />
+<a name = 'installation' />
     ###Installation
-    node i
+
+    answer basic questions about your project to generate a readme file
 
 
-    <a name = 'usage' />
+<a name = 'usage' />
     ### Usage
-    answer a series of questions to generate a professional README file
+
+    answer basic questions about your project to generate a readme file
 
 
-    <a name = 'contributing' />
+<a name = 'contributing' />
     ### Contributing
+
     N/A
 
 
-    <a name = 'tests' />
+<a name = 'tests' />
     ###Tests
+
     
 
 
-    <a name = 'questions' />
+<a name = 'questions' />
     ###Additional questions:
+    
     message me at:
     victor@github
-    victor@gmail.com
+    victor@gmail
 
     
