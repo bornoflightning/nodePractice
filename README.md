@@ -6,7 +6,7 @@
 ## Notice!
 
     this application is covered under the license IBM
-    `https://img.shields.io/static/v1?label=<${license}>&message=<LICENSE>&color=<GREEN>`
+    https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 <a name = 'contents' /></a>
