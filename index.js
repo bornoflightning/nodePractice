@@ -39,7 +39,7 @@ const questions = [
         type: 'list',
         message: 'What licenses will be used?',
         name: 'license',
-        choices: ['IBM', 'MIT', 'ISC', 'Mozilla']
+        choices: ['IBM', 'MIT', 'ISC', 'Mozilla', 'NONE']
     },
     {
         type: 'input',
@@ -56,19 +56,32 @@ const questions = [
 ];
 
 const generateReadMe = ({projectName, description, contents, installationInstructions, usage, license, contributors, tests, github, email}) => 
+let image;
    
+switch(license) {
+    case 'IBM':
 
-    `
-<a name = 'title' />
+    case 'MIT':
+
+    case 'ISC':
+
+    case 'Mozilla'
+
+    default:
+}
+
+
+`
+<a name = 'title' /></a>
 # Title: ${projectName}:
     
-<a name = 'notice' />
+<a name = 'notice' /></a>
 ## Notice!
 
     this application is covered under the license ${license}
     ![license]()
 
-<a name = 'contents' />
+<a name = 'contents' /></a>
 ## Table of Contents
 
     * [Descritpion](#description)
@@ -79,38 +92,38 @@ const generateReadMe = ({projectName, description, contents, installationInstruc
     * [Additional Questions](#questions)
 
 
-        <!-- TOC -->
-<a name = 'description' />
+        
+<a name = 'description' /></a>
 ### Descritpion
 
     ${description}
 
 
-<a name = 'installation' />
+<a name = 'installation' /></a>
 ### Installation
 
     ${installationInstructions}
 
 
-<a name = 'usage' />
+<a name = 'usage' /></a>
 ### Usage
 
     ${usage}
 
 
-<a name = 'contributing' />
+<a name = 'contributing' /></a>
 ### Contributing
 
     ${contributors}
 
 
-<a name = 'tests' />
+<a name = 'tests' /></a>
 ### Tests
 
     ${tests}
 
 
-<a name = 'questions' />
+<a name = 'questions' /></a>
 ### Additional questions:
 
     if you have any additional questions you are welcome to message me at ${email} or you can find me on github at ${github}

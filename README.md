@@ -11,15 +11,18 @@
 <a name = 'contents' /></a>
 ## Table of Contents
 
-    * [Descritpion](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Additional Questions](#questions)
+- [Title: node README generator:](#title-node-readme-generator)
+  - [Notice!](#notice)
+  - [Table of Contents](#table-of-contents)
+    - [Descritpion](#descritpion)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Additional questions:](#additional-questions)
 
 
-        <!-- TOC -->
+        
 <a name = 'description' /></a>
 ### Descritpion
 
