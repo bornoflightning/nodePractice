@@ -8,8 +8,8 @@
     this application is covered under the license IBM
     [![][black-shield]][black]
 
-[black]: http://github.com/psf/black
-[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
+    [black]: http://github.com/psf/black
+    [black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 
 <a name = 'contents' /></a>
 ## Table of Contents
