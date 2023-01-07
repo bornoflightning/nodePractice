@@ -36,7 +36,7 @@ const questions = [
         name: 'usage'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         message: 'What licenses will be used?',
         name: 'license',
         choices: ['IBM', 'MIT', 'ISC', 'Mozilla']
@@ -59,58 +59,61 @@ const generateReadMe = ({projectName, description, contents, installationInstruc
    
 
     `
-    #title: ${projectName}:
+<a name = 'title' />
+# Title: ${projectName}:
     
-    ##Notice!
+<a name = 'notice' />
+## Notice!
+
     this application is covered under the license ${license}
+    ![license]()
 
-    
-    ##Table of Contents
-        [Descritpion](#description)
-        [Installation](#installation)
-        [Usage](#usage)
-        [Contributing](#contributing)
-        [Tests](#tests)
-        [Additional Questions](#questions)
+<a name = 'contents' />
+## Table of Contents
+
+    * [Descritpion](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Additional Questions](#questions)
 
 
-    
+        <!-- TOC -->
 <a name = 'description' />
-    ###Descritpion
+### Descritpion
 
     ${description}
 
 
 <a name = 'installation' />
-    ###Installation
+### Installation
 
     ${installationInstructions}
 
 
 <a name = 'usage' />
-    ### Usage
+### Usage
 
     ${usage}
 
 
 <a name = 'contributing' />
-    ### Contributing
+### Contributing
 
     ${contributors}
 
 
 <a name = 'tests' />
-    ###Tests
+### Tests
 
     ${tests}
 
 
 <a name = 'questions' />
-    ###Additional questions:
-    
-    message me at:
-    ${github}
-    ${email}
+### Additional questions:
+
+    if you have any additional questions you are welcome to message me at ${email} or you can find me on github at ${github}
 
     `;
 

@@ -1,57 +1,58 @@
 
-    #title: node README generator:
+<a name = 'title' />
+# Title: node README generator:
     
-    ##Notice!
-    this application is covered under the license 
+<a name = 'notice' />
+## Notice!
 
-    
-    ##Table of Contents
-        [Descritpion](#description)
-        [Installation](#installation)
-        [Usage](#usage)
-        [Contributing](#contributing)
-        [Tests](#tests)
-        [Additional Questions](#questions)
+    this application is covered under the license IBM
+    ![license]()
+
+<a name = 'contents' />
+## Table of Contents
+
+    * [Descritpion](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Additional Questions](#questions)
 
 
-    
+        <!-- TOC -->
 <a name = 'description' />
-    ###Descritpion
+### Descritpion
 
-    generates a professionall ReadMe file
+    create a professional README file by answering questions
 
 
 <a name = 'installation' />
-    ###Installation
+### Installation
 
-    answer basic questions about your project to generate a readme file
+    npm i 
 
 
 <a name = 'usage' />
-<a name = 'usage' />
-    ### Usage
+### Usage
 
-    answer basic questions about your project to generate a readme file
+    answer a few questions to generate a clean and professional README.md file
 
 
 <a name = 'contributing' />
-<a name = 'contributing' />
-    ### Contributing
+### Contributing
 
-    N/A
+    n/a
 
 
 <a name = 'tests' />
-    ###Tests
+### Tests
 
     
 
 
 <a name = 'questions' />
-    ###Additional questions:
-    
-    message me at:
-    victor@github
-    victor@gmail
+### Additional questions:
+
+    if you have any additional questions you are welcome to message me at victor@gmail.com or you can find me on github at victor@github.com
 
     
