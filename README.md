@@ -6,7 +6,7 @@
 ## Notice!
 
     this application is covered under the license IBM
-    !\[my badge\](https://badgen.net/badge/license/${license}/green)
+   
     
 
 
