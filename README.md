@@ -15,8 +15,8 @@
 
 <a name="description" />
     ###Descritpion
-    creates a professional README file
-    "\n"
+    creates a professional README file\n
+    
 
 
 <a name = "installation" />
