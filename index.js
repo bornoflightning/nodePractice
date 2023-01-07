@@ -66,28 +66,40 @@ const generateReadMe = ({projectName, description, contents, installationInstruc
 
     
     ##Table of Contents
-        Descritpion
-        Installation
-        Usage
-        Contributing
-        Tests
-        Additional Questions
+        [Descritpion](#description)
+        [Installation](#installation)
+        [Usage](#usage)
+        [Contributing](#contributing)
+        [Tests](#tests)
+        [Additional Questions](#questions)
 
+
+    <a name = 'description' />
     ###Descritpion
     ${description}
 
+
+    <a name = 'installation' />
     ###Installation
     ${installationInstructions}
 
+
+    <a name = 'usage' />
     ### Usage
     ${usage}
 
+
+    <a name = 'contributing' />
     ### Contributing
     ${contributors}
 
+
+    <a name = 'tests' />
     ###Tests
     ${tests}
 
+
+    <a name = 'questions' />
     ###Additional questions:
     message me at:
     ${github}
