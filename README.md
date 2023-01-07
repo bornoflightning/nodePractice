@@ -1,43 +1,43 @@
 
 <a name = 'title' /></a>
-# Title: node README:
+# Title: node README generator:
     
 <a name = 'notice' /></a>
 ## Notice!
 
-    this application is covered under the license IBM
-![badge](https://img.shields.io/static/v1?label=LICENSE&message=IBM&color=<green>)
+    this application is covered under the license Mozilla
+![badge](https://img.shields.io/static/v1?label=LICENSE&message=Mozilla&color=<green>)
     
     
 
 <a name = 'contents' /></a>
 ## Table of Contents
 
-    * [Descritpion](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Additional Questions](#questions)
+* [Descritpion](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Additional Questions](#questions)
 
 
         
 <a name = 'description' /></a>
 ### Descritpion
 
-    creates a readme file
+    generates a professional read me file
 
 
 <a name = 'installation' /></a>
 ### Installation
 
-    npm i needed
+    use npm i
 
 
 <a name = 'usage' /></a>
 ### Usage
 
-    answer questions to create file
+    answer questions to create a file
 
 
 <a name = 'contributing' /></a>
@@ -55,6 +55,6 @@
 <a name = 'questions' /></a>
 ### Additional questions:
 
-    if you have any additional questions you are welcome to message me at victor@gmail.com or you can find me on github at victor@gitub.com
+    if you have any additional questions you are welcome to message me at victor@gmail.com or you can find me on github at victor@github.com
 
     

@@ -74,12 +74,12 @@ const generateReadMe = ({projectName, description, contents, installationInstruc
 <a name = 'contents' /></a>
 ## Table of Contents
 
-    * [Descritpion](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Additional Questions](#questions)
+* [Descritpion](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Additional Questions](#questions)
 
 
         
