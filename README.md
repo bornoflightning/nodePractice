@@ -28,11 +28,13 @@
 
 
 <a name = 'usage' />
+<a name = 'usage' />
     ### Usage
 
     answer basic questions about your project to generate a readme file
 
 
+<a name = 'contributing' />
 <a name = 'contributing' />
     ### Contributing
 
