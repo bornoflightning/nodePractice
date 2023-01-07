@@ -6,7 +6,7 @@
 
     
     ##Table of Contents
-        [Descritpion]#descritpion
+        [Descritpion]#description
         Installation
         Usage
         Contributing
