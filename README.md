@@ -18,17 +18,17 @@
     creates a professional README file
 
 
-    <a name = 'installation' />
+<a name = 'installation' />
     ###Installation
     node i
 
 
-    <a name = 'usage' />
+<a name = 'usage' />
     ### Usage
     answer a series of questions to generate a professional README file
 
 
-    <a name = 'contributing' />
+<a name = 'contributing' />
     ### Contributing
     N/A
 
