@@ -15,12 +15,12 @@
 
 <a name="description" />
     ###Descritpion
-    creates a professional README file\n
+    creates a professional README file
     
 
 
 <a name = "installation" />
-    ###Installation
+    \n###Installation
     node i
 
 
