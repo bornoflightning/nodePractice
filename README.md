@@ -6,7 +6,7 @@
 ## Notice!
 
     this application is covered under the license IBM
-![badge](https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=<green>)
+![badge](`https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=<green>`)
    
     
 
