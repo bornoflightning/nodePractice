@@ -1,37 +1,48 @@
 
-    [title]#title: readmemaker:
+    #title: node readMe maker:
     
     ##Notice!
     this application is covered under the license IBM
 
     
     ##Table of Contents
-        [Descritpion]#description
-        Installation
-        Usage
-        Contributing
-        Tests
-        Additional Questions
+        [Descritpion](#description)
+        [Installation](#installation)
+        [Usage](#usage)
+        [Contributing](#contributing)
+        [Tests](#tests)
+        [Additional Questions](#questions)
 
-<a name = 'description' />
+
+    <a name = 'description' />
     ###Descritpion
-    create read me files after answers a series of questions
+    creates a professional README file
 
+
+    <a name = 'installation' />
     ###Installation
-    none
+    node i
 
+
+    <a name = 'usage' />
     ### Usage
-    by answering questions
+    answer a series of questions to generate a professional README file
 
+
+    <a name = 'contributing' />
     ### Contributing
-    n/a
+    N/A
 
+
+    <a name = 'tests' />
     ###Tests
-    Ant
+    
 
+
+    <a name = 'questions' />
     ###Additional questions:
     message me at:
-    github@
-    victor@
+    victor@github
+    victor@gmail.com
 
     
