@@ -6,14 +6,15 @@
 
     
     ##Table of Contents
-        Descritpion
+        [Descritpion]#descritpion
         Installation
         Usage
         Contributing
         Tests
         Additional Questions
 
-    [Descritpion]###Descritpion
+<a name = 'description' />
+    ###Descritpion
     create read me files after answers a series of questions
 
     ###Installation
