@@ -1,44 +1,43 @@
 
 <a name = 'title' /></a>
-# Title: node README generator:
+# Title: node README:
     
 <a name = 'notice' /></a>
 ## Notice!
 
-    this application is covered under the license IBM
-
+    this application is covered under the license NONE
+    ![badge](https://img.shields.io/static/v1?label=LICENSE&message=NONE&color=<green>)
+    
+    
 
 <a name = 'contents' /></a>
 ## Table of Contents
 
-- [Title: node README generator:](#title-node-readme-generator)
-  - [Notice!](#notice)
-  - [Table of Contents](#table-of-contents)
-    - [Descritpion](#descritpion)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Additional questions:](#additional-questions)
+    * [Descritpion](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Additional Questions](#questions)
 
 
         
 <a name = 'description' /></a>
 ### Descritpion
 
-    create a professional README file by answering questions
+    creates a professional readme file 
 
 
 <a name = 'installation' /></a>
 ### Installation
 
-    npm i 
+    npm i needed
 
 
 <a name = 'usage' /></a>
 ### Usage
 
-    answer a few questions to generate a clean and professional README.md file
+    answers a few basic questions about your project to create a professional README file
 
 
 <a name = 'contributing' /></a>

@@ -3,6 +3,8 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 
+
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -56,20 +58,6 @@ const questions = [
 ];
 
 const generateReadMe = ({projectName, description, contents, installationInstructions, usage, license, contributors, tests, github, email}) => 
-let image;
-   
-switch(license) {
-    case 'IBM':
-
-    case 'MIT':
-
-    case 'ISC':
-
-    case 'Mozilla'
-
-    default:
-}
-
 
 `
 <a name = 'title' /></a>
@@ -79,7 +67,9 @@ switch(license) {
 ## Notice!
 
     this application is covered under the license ${license}
-    ![license]()
+    ![badge](https://img.shields.io/static/v1?label=LICENSE&message=${license}&color=<green>)
+    
+    
 
 <a name = 'contents' /></a>
 ## Table of Contents
